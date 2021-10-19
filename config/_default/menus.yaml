@@ -8,12 +8,12 @@ main:
     url: news
     weight: 20
   - name: Characters 
-    url: cta
+    url: # cta
     weight: 30
     weight: 40
   - name: Podcasts
     url: Podcasts
     weight: 50
   - name: Disclaimer
-    url: index
+    url: # index
     weight: 60
