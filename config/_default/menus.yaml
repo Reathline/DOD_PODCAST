@@ -5,17 +5,15 @@
 
 main:
   - name: News
-    url: post
+    url: News
     weight: 20
-  - name: People
-    url: people
+  - name: Characters 
+    url: Characters
     weight: 30
-  - name: Events
-    url: event
     weight: 40
-  - name: Publications
-    url: publication
+  - name: Podcasts
+    url: Podcasts
     weight: 50
-  - name: Contact
-    url: contact
+  - name: Disclaimer
+    url: Disclaimer
     weight: 60
